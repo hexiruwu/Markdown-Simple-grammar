@@ -145,3 +145,8 @@ https://github.com/hexiruwu/Markdown-Simple-grammar
 效果：
 
 > `ctrl+a`
+
+参考学习链接：
+[MARKDOWN 中文](https://www.markdown.cn/)
+[Markdown 表格生成器](https://www.tablesgenerator.com/markdown_tables)
+[Markdown 基本语法](https://github.com/younghz/Markdown) 
